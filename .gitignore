@@ -1,0 +1,5 @@
+git remote add origin <https://github.com/codewithsejal06/GAMIFIED-CYBER-HYGIENE-LEARNING-PLATFORM.git>
+git branch -M main
+git add .
+git commit -m "Initial project structure"
+git push -u origin main
